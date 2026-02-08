@@ -1,2 +1,8 @@
 .DS_Store
 .claude/
+claude/session_progress/
+claude/*.pdf
+claude/*.xlsx
+*.keys
+.keys
+.env
